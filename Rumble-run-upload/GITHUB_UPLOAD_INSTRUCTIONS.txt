@@ -1,9 +1,0 @@
-RUMBLE RUN GitHub Pages upload package
-
-1. Upload index.html to the root of https://github.com/HQ23x/Rumble-run
-2. Upload .nojekyll to the root of the repo.
-3. Put Aztec_All_Prefabs.glb at: assets/models/aztec/Aztec_All_Prefabs.glb
-4. Enable GitHub Pages: Settings > Pages > Deploy from a branch > main > /root.
-5. Play at: https://hq23x.github.io/Rumble-run/
-
-The game now includes RR_ASSET_URL(), RR_ASSETS, and RR_CHECK_HOSTED_ASSETS() for checking hosted asset paths.
